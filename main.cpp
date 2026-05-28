@@ -11,7 +11,7 @@ int main() {
     std::cout << "a < b = " << (a < b) << std::endl;
     std::cout << "a == b = " << (a == b) << std::endl;
     std::cout << "(a > b) && (b > 0) = " << ((a > b) && (b > 0)) << std::endl;
-    std::string name = "vortamds code";
+    std::string name = "vortamds milad";
     int year = 2009;
     double height = 1.72;
     char first_latter = 'A';
