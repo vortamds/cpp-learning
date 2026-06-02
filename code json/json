@@ -1,0 +1,67 @@
+// {
+//     "editor.wordWrap": "on",
+//     "workbench.iconTheme": "material-icon-theme",
+//     "glassit.alpha": 20,
+//     "powermode.enabled": true,
+//     "powermode.combo.location": "off",
+//     "powermode.presets": "fireworks",
+//     "powermode.explosions.gifMode": "restart",
+//     "[javascript]": {
+//         "editor.defaultFormatter": "esbenp.prettier-vscode"
+//     },
+//     "explorer.confirmDelete": false,
+//     "[css]": {
+//         "editor.defaultFormatter": "esbenp.prettier-vscode"
+//     },
+//     "[html]": {
+//         "editor.defaultFormatter": "HookyQR.beautify"
+//     },
+//     "files.autoSave": "afterDelay",
+
+//     "workbench.colorCustomizations": {
+//         "editor.background": "#000000",
+//         "editor.foreground": "#ffffff",
+//         "editorLineNumber.foreground": "#00f7ff5d",
+//         "editorLineNumber.activeForeground": "#fffb00",
+//         "editorCursor.foreground": "#ffe600",
+//         "editor.selectionBackground": "#3e16acc9",
+//         "sideBar.background": "#000014",
+//         "sideBar.foreground": "#00ff00",
+//         "titleBar.activeBackground": "#000000",
+//         "titleBar.activeForeground": "#00ccff",
+//         "statusBar.background": "#000000",
+//         "statusBar.foreground": "#00ccff",
+//         "tab.activeBackground": "#000000",
+//         "tab.activeForeground": "#ff0000",
+//         "tab.inactiveBackground": "#1b1b1b",
+//         "tab.inactiveForeground": "#ff000070",
+//         "terminal.background": "#000000",
+//         "terminal.foreground": "#e5ff00",
+//         "terminalCursor.foreground": "#ffffff",
+//         "terminal.selectionBackground": "#00ff0079",
+//         "terminal.ansiBlack": "#0C0C0C",
+//         "terminal.ansiRed": "#FF5555",
+//         "terminal.ansiGreen": "#00ff00",
+//         "terminal.ansiYellow": "#FFFF00",
+//         "terminal.ansiBlue": "#689dff",
+//         "terminal.ansiMagenta": "#FF55FF",
+//         "terminal.ansiCyan": "#00FFFF",
+//         "terminal.ansiWhite": "#CCCCCC",
+//         "terminal.ansiBrightBlack": "#252525",
+//         "terminal.ansiBrightRed": "#FF8888",
+//         "terminal.ansiBrightGreen": "#00f7ff",
+//         "terminal.ansiBrightYellow": "#FFFF88",
+//         "terminal.ansiBrightBlue": "#9900ff",
+//         "terminal.ansiBrightMagenta": "#FF88FF",
+//         "terminal.ansiBrightCyan": "#00FFFF",
+//         "terminal.ansiBrightWhite": "#ffffff"
+//     },
+//     "code-runner.executorMap": {
+//         "cpp": "cd $dir && g++ -std=c++23 $fileName -o $fileNameWithoutExt && ./$fileNameWithoutExt"
+//     },
+//     "C_Cpp.default.cppStandard": "c++23",
+//     "C_Cpp.default.compilerPath": "/usr/bin/g++-13",
+//     "C_Cpp.default.intelliSenseMode": "linux-gcc-x64",
+//     "git.autofetch": true,
+//     "workbench.colorTheme": "2077"
+// }
